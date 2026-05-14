@@ -62,4 +62,4 @@ scipy
 
 ## License
 
-Proprietary / internal use.
+MIT — see [LICENSE](LICENSE) for details.
